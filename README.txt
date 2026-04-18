@@ -1,6 +1,6 @@
 # Shawn Ryan Show Scraper
 
-This folder contains a Python script that scrapes Shawn Ryan Show episode metadata and writes the results to an Excel workbook.
+This folder contains a Python script that scrapes episode metadata from The Shawn Ryan Show and writes the results to an Excel workbook. It is intended to provide researchers with data for analyzing this popular show.
 
 Folder layout:
 
